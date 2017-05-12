@@ -1,16 +1,16 @@
-# Why Scripting? Why a Shell?
+# ¿Por qué el Scripting? ¿Por qué un Shell?
 
-Before we dive into PowerShell itself, let’s tackle the importance of scripting and automation, an integral facet of PowerShell.
+Antes de sumergirnos en PowerShell, abordemos  la importancia del scripting y de la automatización, una faceta integral de PowerShell.
 
-You’ve probably seen this [XKCD comic](http://xkcd.com/1205/) or something similar to justify scripting. While saving time is certainly a factor behind the importance of scripting and automation, it is hardly the only justification. 
+Probablemente usted conozca este [XKCD comic](http://xkcd.com/1205/) o algo similar para justificar el Scripting. Mientras que el ahorro de tiempo es sin duda un factor importante del scripting y la automatización, no es la única justificación. 
 
-Here are a few others to consider:
+Otros factores a considerar:
 
-* **Consistency**. A scripted solution will run the exact same script every time. No risk of typos, forgetting to complete the task, or doing the task incorrectly. _Reduce human error_. 
-* **Audit trail**. There are many tasks where having an audit trail would be helpful, perhaps including what task was performed, important results, errors that occurred, when the task ran, who ran it, and so forth. Scripts can provide this trail, and in PowerShell v5 and later, the shell itself features extensive logging capabilities.
-* **Modular code**. You might spend more time on a particular function than time savings justify, but you can generally re-use or borrow ideas from the code later.
-* **Documentation**. Is there documentation for the task? Is it up to date? A well written and commented script can generally serve as a helpful base level of documentation that might not exist for a manual task. In some cases, the script can document the process that it automates, helping to preserve institutional knowledge.
-* **Education**. Administrators who can automate tasks are almost always more well-versed in the technology as a result. That makes them better planners, architects, troubleshooters, and operators, all of which convey benefit to the organization.
-* **Delegation**. With a scripted solution, you can typically delegate more functions closer to the teams best equipped to handle them. With PowerShell v3 and later specifically, scripts can enable extremely granular delegation of tasks, helping the overall IT team become more efficient and responsive.
+* **Consistencia**. Una solución de secuencias de comandos ejecutará siempre el mismo script de manera exacta. Sin riesgo de errores tipográficos, o de olvidarse completar la tarea, o haciendo la tarea incorrectamente. _Reducir el error humano_. 
+* **Registros de auditoría**. Hay muchas tareas en las que sería útil tener un registro de auditoría, tal vez incluyendo qué tarea se realizó, resultados importantes, errores que ocurrieron, cuándo se ejecutó la tarea, quién la ejecutó y así sucesivamente. Los scripts pueden proporcionar estos registros, y en PowerShell v5 y posteriores, el propio Shell cuenta con amplias capacidades de registro.
+* **Código modular**. Al principio usted podría pasar más tiempo escribiendo una función particular de lo que justifique el ahorro de tiempo, pero generalmente usted podrá reutilizar o tomar prestadas ideas de ese mismo código más adelante.
+* **Documentación**. ¿Se tiene documentación para la tarea? ¿Está actualizada? Un script bien escrito y comentado puede servir generalmente como una base útil de documentación, que podría no existir para una tarea manual. En algunos casos, el script puede documentar el proceso que automatiza, ayudando a preservar el conocimiento institucional.
+* **Educación**. Los administradores que pueden automatizar las tareas, al final se vuelven expertos en tecnologías como resultado de sus conocimientos. Eso los convierte en mejores planificadores, arquitectos, solucionadores de problemas y operadores, lo cual resulta beneficioso para la organización.
+* **Delegación**. Con una solución basada en scripts, típicamente se pueden delegar más funciones a los equipos mejor preparados. Con PowersShell v3 o superior, estos scripts permiten la delegación de tareas de forma extremadamente granular, ayudando al equipo a ser más eficiente y sensible.
 
-The moral of the story is that scripting and automation is important, which is just one factor behind the value of learning PowerShell.
+La moraleja de la historia es que el Scripting y la automatización son importantes, y se convierten en factores importantes y de alto valor para aprender PowerShell.
