@@ -14,7 +14,7 @@ Esta guía se publica bajo la licencia Creative Commons Attribution-NoDerivs 3.0
 
 ** Revise las actualizaciones! ** Nuestros ebooks se actualizan a menudo con contenido nuevo y corregido. Los hacemos disponibles de tres maneras::
 
-* Nuestra autoridad principal [GitHub organization](https://github.com/devops-collective-inc), con un repositorio para cada libro. Visite https://github.com/devops-collective-inc/
+* Nuestra rama principal [GitHub organization](https://github.com/devops-collective-inc), con un repositorio para cada libro. Visite https://github.com/devops-collective-inc/
 * Nuestra [GitBook page](https://www.gitbook.com/@devopscollective), donde puede navegar por los libros en línea, o descargarlos en formato PDF, EPUB o MOBI. Utilizando el lector en línea, puede saltar a capítulos específicos. Visite https://www.gitbook.com/@devopscollective
 * En [LeanPub](https://leanpub.com/u/devopscollective), donde se pueden descargar como PDF, EPUB, o MOBI (login requerido), y "comprar" los libros haciendo una donación a DevOps. También puede elegir recibir notificaciones de actualizaciones. Visite https://leanpub.com/u/devopscollective
 
