@@ -8,7 +8,7 @@ Un vistazo increíblemente conciso del por qué Windows PowerShell es importante
 
 ---
 
-Esta guía se publica bajo la licencia Creative Commons Attribution-NoDerivs 3.0 Unported. Los autores animan a redistribuir este archivo lo más ampliamente posible, pero le solicitan que no modifique el documento original.
+Esta guía se publica bajo la licencia Creative Commons Attribution-NoDerivs 3.0 Unported. Los autores le animan a redistribuir este archivo lo más ampliamente posible, pero le solicitan que no modifique el documento original.
 
 **¿Ha sido útil este libro?** El (los) autor (es) le pide (n) que haga una donación deducible de impuestos (en los EE.UU., consulte sus leyes si vive en otro lugar) de cualquier cantidad a [The DevOps Collective](https://devopscollective.org/donate/) para apoyar su trabajo.
 
