@@ -1,9 +1,9 @@
-# A Brief Overview
+# Una breve reseña
 
-PowerShell etnhusiasts often find themselves explaining why someone with responsibilities on the Microsoft side of the IT shop should learn PowerShell. We decided to write this as a reference going forward.
+Los entusiastas de PowerShell a menudo se encuentran explicando por qué alguien con responsabilidades de TI debe aprender PowerShell. Decidimos escribir esto como referencia para el futuro.
 
-We won’t be arguing for PowerShell over other Microsoft languages such as VBScript or batch, or general purpose languages such as Python or Perl. There is a place for all of these languages, but if you work with the Microsoft and surrounding ecosystems, PowerShell is an important language to learn.
+No discutiremos porque PowerShell por encima de otros lenguajes de Microsoft, como VBScript o archivos de lotes (batch), o lenguajes de uso general como Python o Perl. Hay un lugar para todos estos lenguajes, pero si trabajas en entornos Microsoft, PowerShell es un lenguaje importante para aprender.
 
-What's also important to understand is that _Microsoft has made an enormous commitment to PowerShell_. It isn't going away, and indeed the company is building more and more of their management solutions on top of it. To a degree, Microsoft is even backing off from building management tooling, knowing that you can use PowerShell to build your own tools. That's significant.
+También es importante entender que Microsoft tiene un gran compromiso con PowerShell. Llego para quedarse, y de hecho la empresa está construyendo más y más de sus soluciones de gestión utilizando PowerShell. Hasta cierto punto, Microsoft incluso se ha apartado un poco del desarrollo de herramientas especializadas, en favor de crear estas mismas utilizando PowerShell. Eso es algo muy significativo.
 
-But let's move on.
+Sigamos adelante.
