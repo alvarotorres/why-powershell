@@ -1,1 +1,1 @@
-Ever wonder why PowerShell is a thing, or find yourself having to explain it to someone else? Here's a concise guide that does just that.
+¿Alguna vez te has preguntado por qué PowerShell?, ¿Alguna vez has tenido que explicárselo a alguien más? Esta es una guía concisa que ayudará a responderte.
