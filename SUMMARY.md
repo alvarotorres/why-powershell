@@ -1,10 +1,10 @@
 # Summary
 
-* [ReadMe](README.md)
-* [About this Book](manuscript/About.md)
-* [A Brief Overview](manuscript/chapter1.md)
-* [Why Scripting? Why a Shell?](manuscript/chapter2.md)
-* [Why PowerShell?](manuscript/chapter3.md)
-* [The Business Story](manuscript/chapter4.md)
-* [Where Can You Learn More?](manuscript/chapter5.md)
-* [Why PowerShell Remoting? (While we're answering "Whys")](manuscript/chapter6.md)
+* [Léame](README.md)
+* [Acerca de este libro](manuscript/About.md)
+* [Una breve reseña](manuscript/chapter1.md)
+* [¿Por qué Scripting? ¿Por qué una Shell?](manuscript/chapter2.md)
+* [¿Por qué PowerShell?](manuscript/chapter3.md)
+* [La historia de negocio](manuscript/chapter4.md)
+* [¿Dónde puede aprender más?](manuscript/chapter5.md)
+* [¿Por qué PowerShell Remoting? (Mientras respondemos "Por que’s")](manuscript/chapter6.md)
