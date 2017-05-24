@@ -10,16 +10,17 @@ Antes de responder hay que entender un par de cosas - va a parecer un poco grose
 
 Una vez aclarado esto, vamos a hablar brevemente de ...
 
-## What is PowerShell Remoting?
-Remoting is simply a way for management tools on one computer to talk to services on another computer, so that you can remotely manage those services. 
+## ¿Qué es PowerShell Remoting?
 
-Remoting is based on HTTP, and uses a protocol called WS-Management (WS-MAN). It requires servers to have a single open port, and routes all incoming management traffic through that one port. WS-MAN traffic can be logged, can be proxied through security servers (provided by third parties), and can be completely encrypted by means of SSL. 
+Remoting es simplemente una manera en que las herramientas de administración en una computadora se hablan con servicios en otra computadora, de modo que pueda administrar remotamente esos servicios.
 
-Like all HTTP traffic, Remoting is essentially transmitting text back and forth. Remoting simply specifies a way for that text to be laid out (predominantly in an XML variant) so that tools and services can understand each other.
+Remoting se basa en http, y utiliza un protocolo llamado WS-Management (WS-MAN). Requiere que los servidores tengan un único puerto abierto para enrutar todo el tráfico de gestión entrante a través de ese puerto. El tráfico de WS-MAN puede ser registrado, puede ser enviado a través de un Proxy, a través de servidores de seguridad (proporcionados por terceros), y puede ser completamente cifrado por medio de SSL.
 
-Remoting does not in any way affect the security of your network under default conditions. It does not, by default, transmit usernames or passwords - encrypted or otherwise. In a non-domain environment, you can create an environment where passwords would be transmitted, but it really wants that to be encrypted by SSL, so you'd be using HTTPS.
+Como todo el tráfico es http, Remoting es esencialmente un transmisor de texto de ida y vuelta. Remoting simplemente especifica la forma de intercambiar un texto (generalmente una variante de XML) para que las herramientas y servicios puedan entenderse mutuamente.
 
-Remoting doesn't in any way give anyone special privileges. The technology literally can't let someone do something they don't have permission to do, unless you've gone through a rather complex setup for something called _delegated administration_. In that case, you can enable specific users to perform specific tasks that they wouldn't normally be able to - but only through the specific channel and interface you've set up. 
+El control remoto no afecta en modo alguno la seguridad de la red ni las configuraciones predeterminadas. Por defecto, no se transmiten nombres de usuario o contraseñas, estén cifrados o no. En un entorno que no sea de dominio, puede crear una variante en el que se transmitirán contraseñas, pero si usted quisiera cifrarlas por SSL, puede utilizar https.
+
+Remoting no le otorga a nadie privilegios especiales. La tecnología literalmente no permite que alguien haga algo que no tiene permiso para hacer, a menos que haya pasado por una configuración bastante compleja conocida como administración delegada. En ese caso, puede habilitar a usuarios específicos para realizar tareas específicas que normalmente no podrían hacerlo, pero sólo a través del canal específico y la interfaz que ha configurado.
 
 ## Comparing Remoting to what came before
 Before Remoting, most Windows remote management was conducted over Remote Procedure Calls, or RPCs. These usually employed port-hopping, making them incredibly difficult to manage through a firewall. Contrast that with the one port you have to deal with in Remoting.
