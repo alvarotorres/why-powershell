@@ -3,7 +3,7 @@
 * [Léame](README.md)
 * [Acerca de este libro](manuscript/About.md)
 * [Una breve reseña](manuscript/chapter1.md)
-* [¿Por qué Scripting? ¿Por qué una Shell?](manuscript/chapter2.md)
+* [¿Por qué el Scripting? ¿Por qué un Shell?](manuscript/chapter2.md)
 * [¿Por qué PowerShell?](manuscript/chapter3.md)
 * [La historia de negocio](manuscript/chapter4.md)
 * [¿Dónde puede aprender más?](manuscript/chapter5.md)
