@@ -1,6 +1,6 @@
-# Why PowerShell?
+# ¿Por qué PowerShell?
 
-Microsoft describes PowerShell as “a task-based command-line shell and scripting language… built on the .NET Framework.” What is so great about PowerShell? Why should you use it?
+Microsoft describe PowerShell como "un shell de línea de comandos basado en tareas con un lenguaje de scripting ... construido en .NET Framework". ¿Qué es lo grandioso de PowerShell? ¿Por qué debería usarlo?
 
 ## PowerShell is both a command-line shell and scripting language
 
