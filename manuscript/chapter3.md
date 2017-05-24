@@ -22,14 +22,15 @@ Esto nos da una flexibilidad increíble. Filtrar, clasificar, medir, agrupar, co
 
 Si ha pasado tiempo programando y “descifrando” una salida basada en texto, sabe lo frustrante que puede ser. ¿Cuál delimitador utilizo? ¿Hay un delimitador? ¿Qué pasa si un resultado en particular tiene una entrada en blanco para una columna? ¿Necesito contar los caracteres en cada columna? ¿Este conteo variará dependiendo de la salida? Con objetos todo eso está resuelto, y hace que sea muy sencillo encadenar comandos y datos a través de diversas tecnologías.
 
-## PowerShell isn’t going away
-Microsoft is putting its full weight behind PowerShell.
+## PowerShell llegó para quedarse
 
-PowerShell support is a requirement in the Microsoft Common Engineering Criteria, and a Server product cannot be shipped without a PowerShell interface. That means very few Microsoft server products can't be managed by PowerShell - and the few that can't, will be able to soon.
+Microsoft está poniendo todo su empeño detrás de PowerShell.
 
-Vendors other than Microsoft have strong support for PowerShell. This includes IBM, Cisco, Citrix, VMware, NetApp, Dell, and dozens more.
+El soporte de PowerShell es un requisito en los criterios comunes de ingeniería de Microsoft, y un producto de servidor no se puede liberar sin una interfaz de PowerShell. Eso significa que muy pocos productos de servidor de Microsoft no pueden ser manejados desde PowerShell - y los pocos que no pueden, podrán hacerlo pronto.
 
-In many cases Microsoft uses PowerShell to build the GUI management consoles for its products. Some tasks can’t be performed in the GUI and can only be completed in PowerShell. This is a big deal: In an increasing number of situations, _you can't manage the product fully unless you use PowerShell._ That applies to cloud-based offerings like Azure and Office 365, too.
+Otros proveedores de tecnologías Microsoft también tienen soporte para PowerShell. Esto incluye IBM, Cisco, Citrix, VMware, NetApp, Dell, y docenas más.
+
+En muchos casos Microsoft utiliza PowerShell para construir las consolas de administración GUI para sus productos. Algunas tareas no se pueden realizar en el GUI y sólo se puede completar desde PowerShell. Esto podría ser un problema: _en un número cada vez mayor de situaciones, no se puede administrar el producto totalmente a menos que utilice PowerShell._ Y esto se extiende a ofertas basadas en la nube como Azure y Office 365, también.
 
 ## Consolidate and multiply your learning
 
