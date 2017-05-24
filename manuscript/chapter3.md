@@ -14,7 +14,7 @@ Microsoft describe PowerShell como "un shell de línea de comandos basado en tar
 
 Windows no está basado en texto. Tarde o temprano tendrá que hacer algo que no puede hacer con las herramientas de NIX y otros lenguajes basados en texto. Muchas de las tecnologías con las que PowerShell puede interactuar simplemente no tienen interfaces basadas en texto, y ni siquiera pueden ser accesibles directamente desde lenguajes más formales como Perl o Python.
 
-El mensaje aquí es que PowerShell es el mejor "pegamento" que Microsoft nos ha proporcionado para unir sistemas diversos. Es mejor que las anteriores Shells basadas en Windows porque entiende y funciona con la naturaleza del API de Windows en sí, lo cual muy diferente de lo que hicieron los Shells anteriores basados en texto.
+El mensaje aquí es que PowerShell es el mejor "pegamento" que Microsoft nos ha proporcionado para unir sistemas diversos. Es mejor que las anteriores Shells basadas en Windows porque entiende y funciona con la naturaleza del API de Windows en sí, lo cual es muy diferente de lo que hicieron los Shells anteriores basados en texto.
 
 ## PowerShell está basado en objetos
 
