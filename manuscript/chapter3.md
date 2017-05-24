@@ -38,10 +38,11 @@ Su recompensa por aprender PowerShell es una habilidad mejorada para controlar y
 
 Su recompensa por aprender herramientas específicas o ejecutables como net.exe o schtasks.exe, es la capacidad de trabajar con esas herramientas. Ni más, ni menos. En cambio, con PowerShell su inversión en el aprendizaje se convierte en un enorme ecosistema de múltiples capacidades.
 
-## In Windows, PowerShell's really the only option
-VBScript is deprecated, and you're not going to see further development. VBScript was already anemic in terms of the things it could "touch," making it a poor "glue" for connecting systems and processes.
+## En Windows, PowerShell realmente es la única opción
 
-And nothing else even came close to VBScript. Python, Perl, you name it - they're great on Linux, a predominantly text-based OS, but they were nigh-useless on Windows, since they couldn't access the many and varied APIs Windows uses for management.
+VBScript está obsoleto, y su desarrollo se detuvo hace mucho. VBScript ya era anémico en términos de las cosas que podría "tocar", lo que lo convierte en un "pegamento" pobre para conectar sistemas y procesos.
 
-PowerShell consolidates all of those APIs into a single, largely-consistent interface that's focused on systems operations and administration.
+Y nada más se acercó a las capacidades de VBScript. Python, Perl, <ponga el nombre que desee aquí> - son grandes en Linux, predominantemente basados en sistemas operativos orientados a texto, pero poco útiles en Windows, ya que no podían acceder a los muchos y variados usos de las API’s de Windows para su gestión.
+
+PowerShell consolida todos esos API’s en una única interfaz, en gran medida coherente, que se centra en las operaciones de sistemas y su administración.
 
