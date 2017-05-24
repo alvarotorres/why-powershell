@@ -1,12 +1,15 @@
-# Why PowerShell Remoting? (While We're Answering "Whys")
+# ¿Por qué PowerShell Remoting? (Mientras respondemos otros "por qué"…)
 
-Another big question that comes along is, "why should we enable PowerShell Remoting?"
+Una gran pregunta común es, "¿por qué deberíamos habilitar PowerShell Remoting?"
 
-First, understand a couple of things - which are going to seem a bit rude. Sorry.
-- PowerShell Remoting has been around since 2008. If you're seriously just asking yourself this now, then you're doing a poor job of managing your IT environment. Also released since 2008 were smart watches, Microsoft (formerly Windows) Azure, the Tesla Roadster, Disney's "Frozen," affordable LED light bulbs, and the iPhone 3G, 3GS, 4, 4S, 5, 5S, and 6 models. Just in case you missed those as well.
-- Information technology is an industry of change. The perfectly reasonable decisions you made in 2003 are going to need to be periodically revisited, due to aforementioned change.
+Antes de responder hay que entender un par de cosas - va a parecer un poco grosero. Lo siento.
 
-With that out of the way, let's briefly talk about...
+- PowerShell Remoting ha existido desde 2008. Si usted se está preguntando esto hasta ahora, entonces usted está haciendo un trabajo “modesto” en la gestión de su entorno. En 2008 también aparecieron los relojes inteligentes, Microsoft (antes Windows) Azure, el Roadster de Tesla, "Frozen" de Disney, las bombillas led con precios razonables, y los modelos de iPhone 3G, 3GS, 4, 4S, 5, 5S, y 6. Sólo en caso de que se los haya perdido también.
+
+- La tecnología de la información es una industria en constante cambio. Las decisiones perfectamente razonables que tomó en 2003 van a necesitar ser revisadas periódicamente, debido al cambio mencionado anteriormente.
+
+Una vez aclarado esto, vamos a hablar brevemente de ...
+
 ## What is PowerShell Remoting?
 Remoting is simply a way for management tools on one computer to talk to services on another computer, so that you can remotely manage those services. 
 
