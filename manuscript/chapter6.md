@@ -1,6 +1,6 @@
 # ¿Por qué PowerShell Remoting? (Mientras respondemos otros "por qué"…)
 
-Una gran pregunta común es, "¿por qué deberíamos habilitar PowerShell Remoting?"
+Una pregunta común es, "¿por qué deberíamos habilitar PowerShell Remoting?"
 
 Antes de responder hay que entender un par de cosas - va a parecer un poco grosero. Lo siento.
 
