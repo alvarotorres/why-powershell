@@ -2,11 +2,11 @@
 
 Microsoft describe PowerShell como "un shell de línea de comandos basado en tareas con un lenguaje de scripting ... construido en .NET Framework". ¿Qué es lo grandioso de PowerShell? ¿Por qué debería usarlo?
 
-## PowerShell is both a command-line shell and scripting language
+## PowerShell es un shell de línea de comandos y un lenguaje de secuencias de comandos (ambos)
 
-Fight fires quickly using existing or custom PowerShell commands or scripts at the shell, no need to compile code. Develop your code at the command line before creating a function or script around it. Write quick and dirty scripts that you will use a single time or a handful of times. Write formal, readable, production level scripts that will maintain your services for years.
+“Apague incendios” rápidamente utilizando comandos existentes o personalizados de PowerShell, sin necesidad de compilar el código. Desarrolle sus soluciones desde la línea de comandos. Escriba scripts rápidamente, los usará muchas veces. Cree scripts legibles y documentados, capaces de ejecutarse en ambientes de producción. Le ayudaran a mantener sus servicios/ambientes durante años.
 
-What is the cost of this investment? Learning PowerShell. Pretty reasonable, considering you will likely need to do so regardless of your current language of choice, assuming you work with the Microsoft ecosystem.
+¿Cuál es el costo de esta inversión? Aprender PowerShell. Bastante razonable teniendo en cuenta que es probable que tenga que hacerlo independientemente de su lenguaje actual de programación, suponiendo que trabaja con el ecosistema de Microsoft.
 
 ## PowerShell can interact with a dizzying number of technologies.
 
