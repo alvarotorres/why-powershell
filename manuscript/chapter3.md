@@ -16,7 +16,7 @@ Windows no está basado en texto. Tarde o temprano tendrá que hacer algo que no
 
 El mensaje aquí es que PowerShell es el mejor "pegamento" que Microsoft nos ha proporcionado para unir sistemas diversos. Es mejor que las anteriores Shells basadas en Windows porque entiende y funciona con la naturaleza del API de Windows en sí, lo cual muy diferente de lo que hicieron los Shells anteriores basados en texto.
 
-##PowerShell está basado en objetos.
+## PowerShell está basado en objetos.
 
 Esto nos da una flexibilidad increíble. Filtrar, clasificar, medir, agrupar, comparar o tomar otras acciones sobre objetos a medida que pasan a través de la tubería (pipeline). Trabaje con propiedades y métodos en lugar de texto en bruto.
 
