@@ -12,6 +12,6 @@ En la **versión 4**, PowerShell extendió su "alcance" al integrarse con una nu
 
 En la **versión 5**, PowerShell maduró DSC y amplió sus capacidades de "fabricación de herramientas" en el espacio de desarrollador profesional. Con soporte en Visual Studio, DSC comenzó a abarcar un espectro mucho más amplio de usuarios, desde administradores de nivel básico hasta desarrolladores avanzados.
 
-El punto es que Microsoft ha estado ampliando las capacidades de PowerShell claramente desde el lanzamiento de la versión 1 en 2006. Lo ha hecho _como nunca antes_ en lenguajes como VBScript, y lo ha hecho manteniendo con consistencia y eficiencia.
+El punto es que Microsoft ha estado ampliando las capacidades de PowerShell claramente desde el lanzamiento de la versión 1 en 2006. Lo ha hecho _como nunca antes_ en lenguajes como VBScript, y lo ha hecho manteniendo su consistencia y eficiencia.
 
 Adicional a todo esto, PowerShell ha inspirado todo un ecosistema de proveedores de soporte, y una comunidad global bastante entusiasta. Los administradores hoy son, más que nunca, capaces de obtener asistencia, respuestas e incluso soluciones producidas por vendedores y por la propia comunidad.
