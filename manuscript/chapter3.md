@@ -42,7 +42,7 @@ Su recompensa por aprender herramientas específicas o ejecutables como net.exe 
 
 VBScript está obsoleto, y su desarrollo se detuvo hace mucho. VBScript ya era anémico en términos de las cosas que podría "tocar", lo que lo convierte en un "pegamento" pobre para conectar sistemas y procesos.
 
-Y nada más se acercó a las capacidades de VBScript. Python, Perl, <ponga el nombre que desee aquí> - son grandes en Linux, predominantemente basados en sistemas operativos orientados a texto, pero poco útiles en Windows, ya que no podían acceder a los muchos y variados usos de las API’s de Windows para su gestión.
+Y nada más se acercó a las capacidades de VBScript. Python, Perl, <ponga el nombre que desee aquí> - son grandes en Linux, predominantemente basados en sistemas operativos orientados a texto, pero poco útiles en Windows, ya que no podían acceder a los muchos y variados usos de las APIs de Windows para su gestión.
 
-PowerShell consolida todos esos API’s en una única interfaz, en gran medida coherente, que se centra en las operaciones de sistemas y su administración.
+PowerShell consolida todos esos APIs en una única interfaz, en gran medida coherente, que se centra en las operaciones de sistemas y su administración.
 
