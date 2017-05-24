@@ -8,7 +8,7 @@ En la **versión 2**, PowerShell ganó capacidades nativas de administración re
 
 En la **versión 3**, PowerShell mejoro al permitir ejecutar tareas de larga duración de manera desconectada, apátrida - llamada flujos de trabajo _(Workflows)_. El alcance del producto se extendió aún más, cubriendo todas las principales plataformas de servidores de Microsoft, apoyando las ofertas de Microsoft de la nube. Para esta versión, PowerShell era una cosa muy real, tanto es así que muchos GUIs de Microsoft comenzaron a usar PowerShell "bajo el capó".
 
-En la **versión 4**, PowerShell extendió su "alcance" al integrarse con una nueva tecnología: La configuración de estado deseada (Desired State Configuration). DSC permite a los administradores describir, en texto más o menos claro, cómo debe configurarse un equipo. Aprovechando la inversión existente en PowerShell, DSC pone la máquina en un estado configurado y la mantiene allí.
+En la **versión 4**, PowerShell extendió su "alcance" al integrarse con una nueva tecnología: La configuración de estado deseada (Desired State Configuration). DSC permite a los administradores describir en un archivo de texto, cómo debe configurarse un equipo. Aprovechando la inversión existente en PowerShell, DSC pone la máquina en un estado configurado y la mantiene allí.
 
 En la **versión 5**, PowerShell maduró DSC y amplió sus capacidades de "fabricación de herramientas" en el espacio de desarrollador profesional. Con soporte en Visual Studio, DSC comenzó a abarcar un espectro mucho más amplio de usuarios, desde administradores de nivel básico hasta desarrolladores avanzados.
 
