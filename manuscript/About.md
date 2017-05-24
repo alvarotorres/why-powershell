@@ -4,7 +4,7 @@ Por Warren Frame y Don Jones
 
 ---
 
-Un vistazo increíblemente conciso del por qué Windows PowerShell es importante, desde una perspectiva técnica y de negocios.
+Un vistazo increíblemente conciso del porque Windows PowerShell es importante, desde una perspectiva técnica y de negocios.
 
 ---
 
