@@ -1,6 +1,6 @@
 # ¿Por qué PowerShell?
 
-Por Warren Frame y Don Jones
+Escrito por Warren Frame y Don Jones
 
 ---
 
