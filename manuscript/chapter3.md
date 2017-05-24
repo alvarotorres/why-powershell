@@ -30,7 +30,7 @@ El soporte de PowerShell es un requisito en los criterios comunes de ingeniería
 
 Otros proveedores de tecnologías Microsoft también tienen soporte para PowerShell. Esto incluye IBM, Cisco, Citrix, VMware, NetApp, Dell, y docenas más.
 
-En muchos casos Microsoft utiliza PowerShell para construir las consolas de administración GUI para sus productos. Algunas tareas no se pueden realizar en el GUI y sólo se puede completar desde PowerShell. Esto podría ser un problema: _en un número cada vez mayor de situaciones, no se puede administrar el producto totalmente a menos que utilice PowerShell._ Y esto se extiende a ofertas basadas en la nube como Azure y Office 365, también.
+En muchos casos Microsoft utiliza PowerShell para construir las consolas de administración GUI para sus productos. Algunas tareas no se pueden realizar en el GUI y sólo se pueden completar desde PowerShell. Esto podría ser un problema: _en un número cada vez mayor de situaciones, no se puede administrar el producto totalmente a menos que utilice PowerShell._ Y esto se extiende a ofertas basadas en la nube como Azure y Office 365, también.
 
 ## Consolidar y multiplicar su aprendizaje
 
