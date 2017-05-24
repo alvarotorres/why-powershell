@@ -30,9 +30,10 @@ Muchas organizaciones hoy en día simplemente instalan herramientas de administr
 
 En pocas palabras, la mayoría de las organizaciones parecen estar preocupadas por las "implicaciones" de seguridad de la conexión remota  de PowerShell. Las implicaciones son **significativas**: la comunicación remota es **mucho más segura** de lo que usted ha estado haciendo. También es más eficiente, impone menos sobrecarga en los servidores y permite que los estos funcionen con un sistema operativo más “delgado” que requiera menos parches, menos reinicios y menos Service Packs. Esos servidores también arrancarán más rápido, ejecutarán menos procesos, ejecutarán menos servicios y consumirán menos espacio de almacenamiento para el sistema operativo. También, esos servidores demandarán menos sobrecarga de memoria para el sistema operativo, lo que significa que significa que usted podrá empaquetar más de ellos en un host de virtualización. Suena horrible, ¿verdad?
 
-## But here's the best reason
-Quite simply, the main reason to enable Remoting is that _you haven't got any choice._ Microsoft has moved firmly in this direction, and enables Remoting by default on Windows Server 2012 and later. The company _disables_ Remote Desktop by default, which should tell you something. 
+## Pero esta es la mejor razón
 
-Further, in Nano Server, _logging onto the console isn't even an option_, whether you use Remote Desktop or not. There _is_ no local login. Remoting _is literally your only option_ for managing the server. That's going to be the case going forward.
+Simplemente, la principal razón para habilitar Remoting es que usted no tiene ninguna otra opción. Microsoft se ha movido firmemente en esta dirección, y ahora Remoting viene habilitado por defecto en Windows Server 2012 y posteriores. La compañía también _está desactivando_ el escritorio remoto de forma predeterminada, lo que debería indicarle algo.
 
-Running a Windows environment without enabling Remoting - at least on servers - is like driving a car without wanting to depress the accelerator. It isn't much fun, and you aren't going to get very far.
+Además, en los servidores Nano, _el registro en la consola no es ni siquiera una opción_, ya sea que utilice el escritorio remoto o no. No hay ningún inicio de sesión local. Remoting es _literalmente su única opción_ para administrar el servidor. Y así será en el futuro.
+
+Ejecutar un entorno de Windows sin habilitar Remoting - al menos en los servidores - es como conducir un coche sin querer presionar el acelerador. No es muy divertido, y no vas a llegar muy lejos.
