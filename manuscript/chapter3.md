@@ -32,11 +32,11 @@ Otros proveedores de tecnologías Microsoft también tienen soporte para PowerSh
 
 En muchos casos Microsoft utiliza PowerShell para construir las consolas de administración GUI para sus productos. Algunas tareas no se pueden realizar en el GUI y sólo se puede completar desde PowerShell. Esto podría ser un problema: _en un número cada vez mayor de situaciones, no se puede administrar el producto totalmente a menos que utilice PowerShell._ Y esto se extiende a ofertas basadas en la nube como Azure y Office 365, también.
 
-## Consolidate and multiply your learning
+## Consolidar y multiplicar su aprendizaje
 
-Your reward for learning PowerShell is the improved ability to control and automate the many technologies it integrates with. You can use the same set of commands to filter, export, redirect, modify, extend, and perform actions against output for all of these technologies. You can pick up  PowerShell skills and take them in any direction you need - Hyper-V, vCenter, SQL, AD, XenApp, and more.
+Su recompensa por aprender PowerShell es una habilidad mejorada para controlar y automatizar las muchas tecnologías con las que se integra. Puede usar el mismo conjunto de comandos para filtrar, exportar, redireccionar, modificar, extender y realizar acciones contra la salida para todas estas tecnologías. Puede aprovechar esas mismas habilidades de PowerShell y llevarlas en cualquier dirección que necesite: Hyper-V, vCenter, SQL, AD, XenApp y más.
 
-Your reward for learning specific tools or executables such as net.exe or schtasks.exe, is the ability to work with those specific tools. With PowerShell, your learning investment blossoms into an enormous ecosystem of capability.
+Su recompensa por aprender herramientas específicas o ejecutables como net.exe o schtasks.exe, es la capacidad de trabajar con esas herramientas. Ni más, ni menos. En cambio, con PowerShell su inversión en el aprendizaje se convierte en un enorme ecosistema de múltiples capacidades.
 
 ## In Windows, PowerShell's really the only option
 VBScript is deprecated, and you're not going to see further development. VBScript was already anemic in terms of the things it could "touch," making it a poor "glue" for connecting systems and processes.
