@@ -1,17 +1,17 @@
-# The Business Story
+# La historia de negocio
 
-If you've ignored PowerShell up until now, or were skeptical about it, let's look at what Microsoft has done.
+Si usted ha ignorado PowerShell hasta ahora o estaba escéptico al respecto, vamos a ver lo que Microsoft ha hecho.
 
-In **version 1**, PowerShell emerged as a the first management interface specifically designed for administrative automation. 
+En la **versión 1**, PowerShell surgió como la primera interfaz de gestión diseñada específicamente para la automatización administrativa.
 
-In **version 2**, PowerShell gained native remote management capabilities, enabling remote management of any server or client running PowerShell. PowerShell's "reach" extended to hundreds of management APIs, enabling real-world management. The product also matured a deceptively simple, powerful scripting language that can be used to build professional-grade units of automation.
+En la **versión 2**, PowerShell ganó capacidades nativas de administración remota, permitiendo la administración remota de cualquier servidor o cliente que ejecute PowerShell. El "alcance" de PowerShell se extendió a cientos de APIs de administración, lo que permitió una gestión del mundo real. El producto también maduró en un lenguaje de escritura engañosamente simple y potente que se puede utilizar para construir scripts profesionales de automatización.
 
-In **version 3**, PowerShell learned to run long-running tasks in a disconnected, stateless fashion - called _workflows_. The product's reach extended even further, covering all major Microsoft server platforms, and pushing into Microsoft's cloud offerings. By this version, PowerShell was a very real thing, so much so that many Microsoft native GUIs began to use PowerShell "under the hood."
+En la **versión 3**, PowerShell mejoro al permitir ejecutar tareas de larga duración de manera desconectada, apátrida - llamada flujos de trabajo _(Workflows)_. El alcance del producto se extendió aún más, cubriendo todas las principales plataformas de servidores de Microsoft, apoyando las ofertas de Microsoft de la nube. Para esta versión, PowerShell era una cosa muy real, tanto es así que muchos GUIs de Microsoft comenzaron a usar PowerShell "bajo el capó".
 
-In **version 4**, PowerShell was extended with even more "reach," and gained a new technology: Desired State Configuration. DSC lets administrators describe, in more-or-less plain text, how a computer should be configured. Leveraging the existing investment in PowerShell, DSC then puts the machine into that state, and _keeps_ it there.
+En la **versión 4**, PowerShell extendió su "alcance" al integrarse con una nueva tecnología: La configuración de estado deseada (Desired State Configuration). DSC permite a los administradores describir, en texto más o menos claro, cómo debe configurarse un equipo. Aprovechando la inversión existente en PowerShell, DSC pone la máquina en un estado configurado y la mantiene allí.
 
-In **version 5**, PowerShell matured DSC and extended its "tool making" capabilities into professional developer space. With support in Visual Studio, PowerShell started to span a much broader spectrum of user, from entry-level administrators to advanced developers.
+En la **versión 5**, PowerShell maduró DSC y amplió sus capacidades de "fabricación de herramientas" en el espacio de desarrollador profesional. Con soporte en Visual Studio, DSC comenzó a abarcar un espectro mucho más amplio de usuarios, desde administradores de nivel básico hasta desarrolladores avanzados.
 
-The point is that Microsoft has _clearly_ been building PowerShell since its v1 release in 2006. They've done so in a way that _they've never done before_ in languages like VBScript, and they've done so while maintaining consistency and efficiency.
+El punto es que Microsoft ha estado ampliando las capacidades de PowerShell claramente desde el lanzamiento de la versión 1 en 2006. Lo ha hecho _como nunca antes_ en lenguajes como VBScript, y lo ha hecho manteniendo con consistencia y eficiencia.
 
-What's more, PowerShell has inspired a broad ecosystem of supporting vendors, and an enthusiastic global community. Administrators are, more than ever, able to get assistance, answers, and even ready-made solutions from those vendors and that community.
+Adicional a todo esto, PowerShell ha inspirado todo un ecosistema de proveedores de soporte, y una comunidad global bastante entusiasta. Los administradores hoy son, más que nunca, capaces de obtener asistencia, respuestas e incluso soluciones producidas por vendedores y por la propia comunidad.
