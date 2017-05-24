@@ -8,9 +8,9 @@ Microsoft describe PowerShell como "un shell de línea de comandos basado en tar
 
 ¿Cuál es el costo de esta inversión? Aprender PowerShell. Bastante razonable teniendo en cuenta que es probable que tenga que hacerlo independientemente de su lenguaje actual de programación, suponiendo que trabaja con el ecosistema de Microsoft.
 
-## PowerShell can interact with a dizzying number of technologies.
+## PowerShell puede interactuar con un sin número de tecnologías
 
-The .NET Framework, the Registry, COM, WMI, ADSI. Exchange, Sharepoint, Systems Center, Hyper-V, SQL. VMware vCenter, Cisco UCS, Citrix XenApp and XenDesktop. REST APIs, XML, CSV, JSON, websites, Excel and other Office applications. C# and other languages, DLLs and other binaries, including Linux or Unix tools. A language that can work with and integrate these various technologies can be incredibly valuable.
+.NET Framework, registro de Windows, COM, WMI, ADSI. Exchange, Sharepoint, System Center, Hyper-V, SQL. VMware vCenter, Cisco UCS, Citrix XenApp y XenDesktop, REST APIs, XML, CSV, JSON, sitios Web,  Excel,  aplicaciones Office. C # y otros lenguajes, DLLs y otros binarios, incluyendo Linux o herramientas Unix. Un lenguaje que puede trabajar con estas diversas tecnologías además de integrarlas puede ser increíblemente valioso.
 
 Windows is not text based. Sooner or later you will need to do something that you can’t do with -nix tools and other text based languages. Many of the technologies that PowerShell can interact with simply do not have text based interfaces, and may not even be directly accessible from more formal languages like Perl or Python.
 
